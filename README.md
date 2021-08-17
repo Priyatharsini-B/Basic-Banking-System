@@ -16,6 +16,6 @@ Customer > Transfer Money > Select customer to transfer to >
 View all Customers .
 
 
-◇ No Login Page. No User Creation. Only transfer of money
+◇ No Login Page.Only transfer of money
 between multiple users.
 
